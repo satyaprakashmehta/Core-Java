@@ -20,7 +20,7 @@ Week 2 50
 Week 3 21
 Week 4 20*/
 
-package com.emob.integration.fieldez.domain.service.impl;
+package com.satya.prakash.service.impl;
 
 import java.io.BufferedReader;
 import java.io.File;
